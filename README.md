@@ -1,7 +1,5 @@
 # Grocery Booking System
 
-readme_content = """# Grocery Booking System
-
 ## Overview
 The Grocery Booking System is a microservices-based Spring Boot application designed for managing grocery items and bookings. It includes role-based access control (Admin and User) and is secured with Spring Security.
 
